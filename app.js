@@ -1,5 +1,4 @@
-// Reemplaza esta URL por la URL pública real de Render
-const API_URL = 'https://TU-SERVICIO.onrender.com/api/mensaje';
+const API_URL = 'https://backend-laboratorio-x9q5.onrender.com/api/mensaje';
 
 document.getElementById('consultar').addEventListener('click', async () => {
   const resultado = document.getElementById('resultado');
